@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "ToAddress": "shaol_lu@yahoo.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=LAPTOP-4V1KB2SK\\SHAOLI;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  },
+  "Keys": {
+    "BingKey": "AizLr6EEF1IKNbEdqL7b3hQYvYwjachIdNYihXnXI_Y-QnIu8wZEGfcQFdEI71RC"
+  }
+}
